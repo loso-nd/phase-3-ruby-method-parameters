@@ -1,16 +1,16 @@
 # Method Parameters
 
-## Overview
-
-We'll cover how to define a method, and how to add and use parameters within methods.
-
-## Objectives
+## Learning Goals
 
 - Describe how parameters reference actual values supplied to a method
 - Define methods that accept single parameters
 - Define methods that accept multiple parameters
 - Invoke a method with all required parameters
 - Use a method's parameters within the body of the method
+
+## Introduction
+
+We'll cover how to define a method, and how to add and use parameters within methods.
 
 ## Video
 
